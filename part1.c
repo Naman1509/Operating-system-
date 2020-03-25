@@ -1,3 +1,6 @@
+// CONSTRAINT 1 That is Zero is not allowed as Arrival time  
+// Here's The solution ...
+
 for(i = 0 ; i < n ; i++)
 {
 printf("Enter the arival time of process %d: \t",i+1);
