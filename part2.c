@@ -1,4 +1,7 @@
- for(i=0; i<n; i++)  
+// Calculation Of Completion Time, Turn Around Time, Waiting time  
+
+
+for(i=0; i<n; i++)  
    {  
      ct[i] = -1;  
      ta[i] = bt[i];  
