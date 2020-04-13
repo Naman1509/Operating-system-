@@ -1,4 +1,4 @@
-// Calculating Total extra time taken by the process  
+// Calculating Total extra time taken by the process and printing all the information and format the output
      
     xtra = 2*(n-1);
     xtratime = burstadd + xtra;
